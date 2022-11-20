@@ -1,11 +1,3 @@
-# OOP_INT2204
-Java Dictionary Project !!!!  
-
-Group Member : 
-  - Nguyen Huy Hieu
-  - Nguyen Tien Hoang
-  - Tong Van Hung
-
 # Dictionary
 * Dictionary là ứng dụng từ điển Anh-Việt được viết bằng java.Nó có tính năng đơn giản (Phiên dịch tiếng Anh) cùng một số tiện ích bổ sung giúp việc học tiếng Anh đơn giản hơn.
 
